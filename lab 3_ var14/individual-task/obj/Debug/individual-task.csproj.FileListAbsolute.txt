@@ -1,0 +1,41 @@
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\bin\Debug\individual-task.exe.config
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\bin\Debug\individual-task.exe
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\bin\Debug\individual-task.pdb
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.csprojAssemblyReference.cache
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual_task.Form1.resources
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual_task.Properties.Resources.resources
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.csproj.GenerateResource.cache
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.exe
+D:\лабы ооп\2 семестр\laba--3--oop\individual-task\individual-task\obj\Debug\individual-task.pdb
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\individual-task.exe.config
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.exe
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.pdb
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\individual-task.exe
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\individual-task.pdb
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\mscorlib.dll
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\normidna.nlp
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\normnfc.nlp
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\normnfd.nlp
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\normnfkc.nlp
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\bin\Debug\normnfkd.nlp
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual_task.Form1.resources
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual_task.Properties.Resources.resources
+C:\Users\user\Desktop\laba--3--oop-master\individual-task\individual-task\obj\Debug\individual-task.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\individual-task.exe.config
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\obj\Debug\individual-task.exe
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\obj\Debug\individual-task.pdb
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\individual-task.exe
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\individual-task.pdb
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\mscorlib.dll
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\normidna.nlp
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\normnfc.nlp
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\normnfd.nlp
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\normnfkc.nlp
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\bin\Debug\normnfkd.nlp
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\obj\Debug\individual-task.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\obj\Debug\individual_task.Form1.resources
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\obj\Debug\individual_task.Properties.Resources.resources
+C:\Users\user\Desktop\laba--3--oop-master\lab 3_ var\individual-task\obj\Debug\individual-task.csproj.GenerateResource.Cache
